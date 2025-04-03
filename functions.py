@@ -10,5 +10,3 @@ def rectangle(w,l):
 w = int(input("Enter Widht: "))
 l = int(input("Enter Length: "))
 print(rectangle(w,l))
-
-
