@@ -7,5 +7,7 @@ print(name[4])
 
 name1 =["harry","share","jane","marie"] #sequence string target
 print(name1[0])
+print(name1)
 
 #sequence tupple
+
